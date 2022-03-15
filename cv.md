@@ -31,3 +31,9 @@ for(let i=1; i<=n; i++) {
 }
 ```
 ***
+### Education:
+Vitebsk State Technological University, Marketing (2012-2016)
+
+***
+### English:
+**A2**, I am studying and improving it at the moment.
