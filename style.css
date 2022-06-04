@@ -4,6 +4,9 @@ body {
 	background-color: #faeaea;
 		margin: 0;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 #all {
 	max-width: 1000px;
